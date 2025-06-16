@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-I'm **Nidhi Bhardwaj**, a Software Engineer based in Vancouver 🇨🇦 with 6+ years of experience in backend and mobile development. I’ve worked at companies like Shopify, Expedia, and now Amazon, where I build scalable, data-driven systems that power impactful user experiences.
+I'm **Nidhi Bhardwaj**, a Software Engineer based in Vancouver 🇨🇦 with 6+ years of experience in backend and mobile development. 
+
+I’ve worked at companies like  
+- 🌍 **Expedia** – scaling global travel systems
+- 🛍️ **Shopify** – building commerce experiences    
+- 🛒 **Amazon** – powering large-scale, data-driven platforms  
+
+I specialize in building scalable systems that deliver meaningful user experiences across platforms.
+
 
 ### 💻 Tech I Work With
 - **Languages**: Kotlin, Java, Ruby, SQL
