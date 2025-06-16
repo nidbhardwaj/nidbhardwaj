@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**nidbhardwaj/nidbhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Nidhi Bhardwaj**, a Software Engineer based in Vancouver 🇨🇦 with 6+ years of experience in backend and mobile development. I’ve worked at companies like Shopify, Expedia, and now Amazon, where I build scalable, data-driven systems that power impactful user experiences.
 
-Here are some ideas to get you started:
+### 💻 Tech I Work With
+- **Languages**: Kotlin, Java, Ruby, SQL
+- **Frameworks**: Ruby on Rails, Jetpack Compose
+- **Data & Infra**: Apache Beam, Google Dataflow, Bigtable, Elasticsearch, Kafka
+- **Architecture**: Event-driven systems, server-driven UI, modular design, Reactive programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Applying AI to backend engineering
+- Kotlin DSLs and Compose-based tooling
+- Writing about my tech journey
+
+### ✍️ My Blog (Coming Soon)
+I’m writing a Medium series on:
+> _"Overcoming Fear and Becoming Fluent in AI"_  (In progress)
+If you've ever felt not 'technical enough' or intimidated by fast-moving tech—this is for you.
+
+### 📌 Repos Worth Checking Out
+- `ai-fear-to-fluency`: my public learning repo on AI/ML + backend use cases (coming soon)
+
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/nidbhardwaj)  
+- [Medium](https://medium.com/@nidhicode) (WIP)
+
+---
+
+Thanks for stopping by! 😊
